@@ -1,4 +1,4 @@
-learn python the hard way
+>learn python the hard way
 eloquent javascript
 you dont know JS
 learn enough git to be dangerous
