@@ -6,3 +6,5 @@
 * [Programming Knowledge](https://www.youtube.com/user/ProgrammingKnowledge/featured)
 * [Fun fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * [The New Boston](https://www.youtube.com/user/thenewboston)
+* [Level Up Tuts](https://www.youtube.com/user/LevelUpTuts)
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
