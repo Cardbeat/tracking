@@ -1,0 +1,8 @@
+* [Learn Code Academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+* [Free Code Camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [Code Cast](https://www.youtube.com/channel/UCcQsDUZiK1GWDcP7BpVO_kw)
+* [Dev Cofee](https://www.youtube.com/channel/UCqr-7GDVTsdNBCeufvERYuw)
+* [Dev Tips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+* [Programming Knowledge](https://www.youtube.com/user/ProgrammingKnowledge/featured)
+* [Fun fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [The New Boston](https://www.youtube.com/user/thenewboston)
